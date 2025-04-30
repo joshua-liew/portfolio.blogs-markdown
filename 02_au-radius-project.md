@@ -1,6 +1,6 @@
 # Aomori University's Eduroam Project & the RADIUS Server
 
-*謝辞：ご指導いただいた 下條 真司 教授 に心から感謝いたしております。*
+*謝辞：ご指導いただいた 下條 真司 教授 にいつも心から感謝いたしております。*
 
 - [In English](#in-english)
 - [In Japanese（日本語）](#in-japanese)
@@ -36,7 +36,7 @@ OSIモデルやTCP/IPプロトコルまで、コンピュータがどのよう�
 結局、手を挙げたのは二人だけであり、私がその一人であった。  
 __*こうして、私の大学生活を形作る経験が始まった。*__
 
-## ロードマップ：Linux、RADIUS、eduroam
+## eduroam導入プロジェクト：Linux、RADIUS、eduroam
 
 そもそも __eduroam__ とはどういうものだろうか？
 eduroamを導入することが目標だったので、とりあえずそれを理解するところから。
