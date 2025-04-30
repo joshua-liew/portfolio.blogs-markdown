@@ -1,7 +1,6 @@
 # The Things I Value and a Short Story
 
 - [In English](#in-english)
-- [In Japanese（日本語）](#in-japanese)
 
 ---
 
@@ -13,7 +12,7 @@ Why should one carry out one's actions? Or more personally, what kind of person 
 This is a question that I often ask myself - to what principles do I adhere to or aim for?
 I have realized that the best people, not in terms of 'success' but in terms of __character__,
 often have these figured out. Likewise, the level to which they are respected also seem 
-to be related to the *quality* of their answers to these question of 'ethics', and also to their
+to be related to the *quality* of their answers to these questions of 'ethics', and also to their
 *ability to live/embody* those out.
 
 So, what kind of person do I want to be? God-willing,
@@ -27,18 +26,18 @@ not the question of what we are to do - as important as that is - but rather
 
 ### On Honesty
 
-My father was an honest man.
-He was an unassuming and simple person; working 9-to-5, doing the necessary with minimum fuss, and without need for attention.
+My father is an honest man.
+He is an unassuming and simple person; working 9-to-5, doing the necessary with minimum fuss, and without need for attention.
 In his dealings in work and with people, and I believe to the best of his ability,
-he dealt with fairness and truth. He modeled honesty, something which my younger self did not understand, but that I now
+he deals with fairness and truth. He models honesty, something which my younger self did not understand, but that I now
 admire so much.
 
-How could he go about in quiet diligence? I think it was because he was __honest with himself__.
-He knew what he was and accepted what was given to him - both the pleasant and unpleasant.
-In doing so, he need not pretend that he was something else, freeing him to act simply and diligently.
+How could he go about in quiet diligence? I think it was because he is __honest with himself__.
+He knows what he is and accepted what was given to him - both the pleasant and unpleasant.
+In doing so, he need not pretend that he is something else, freeing him to act simply and diligently.
 
-How could he deal with fairness? I think it was because he was __honest with others__.
-He knew what he could offer, and what worth the work of his hands could bring to others.
+How could he deal with fairness? I think it was because he is __honest with others__.
+He knows what he could offer, and what worth the work of his hands could bring to others.
 Coupled with the confines of his good conscience, he would not ask for anything more than he could offer.
 This freed him to deal with fairness and in good trust.
 
@@ -55,7 +54,7 @@ I do not intend to debate the good and bad of this matter, but would like to pos
 __*how should I act/work when there is no one watching, and where there isn't anything to be gained?*__
 Can I pay attention to the most minute details, producing high-quality work regardless of whether I
 would be seen or evaluated? Will I stick to my principles when presented with justly/legally-earned but dishonest gain?
-Could I seek the good, true, and beautiful as an end in themselves, even when there is nothing be gained from that?
+Could I seek the good, true, and beautiful as an end in themselves, even when there is nothing to be gained through them?
 
 A person capable of embodying the answer to those questions, is a person of integrity.  
 I hope that I can be such a person, whole and complete.
@@ -124,7 +123,7 @@ and that are yet to befall me.
 
 But there is a fundamental problem.  
 In order to be honest, hard-working, and have integrity, one needs *humility*.
-Or to put it in other words, the measure of one's virtue, depends on the measure to which
+To put it in other words, the measure of one's virtue, depends on the measure to which
 they are humble.
 
 And I confess that this is what I truly lack. For I have this tendency 
