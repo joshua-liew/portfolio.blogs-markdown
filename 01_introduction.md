@@ -21,7 +21,7 @@ I hope that I may be a person of **honesty, integrity, and hard work**.
 in the Great Western intellectual tradition. It's accessed typically by a means of a question,
 not the question of what we are to do - as important as that is - but rather
 'what kind of person we ought to be'.
->> Bishop Robert Barron, at the [171st Commencement Ceremony of Hillsdale College](https://youtu.be/VFJYF3MiZLU?si=CV-eHWZRiERRmDTf&t=226).
+>> Bp. Robert Barron, at the [171st Commencement Ceremony of Hillsdale College](https://youtu.be/VFJYF3MiZLU?si=CV-eHWZRiERRmDTf&t=226).
 
 
 ### On Honesty
@@ -97,7 +97,7 @@ in 2024.
 
 __"It is just more fun to be competent".__ Nothing more needs to be said. 
 As much as I am able to do so, I try to aim for competence which means choosing the 
-difficult things. This means *slogging through documentation to learn; not relying on/using
+difficult things. For example, *slogging through documentation to learn; not relying on/using
 AI tools; striving for understanding above and beyond productivity; and so on.*
 Because it is persevering through the difficult things that brings about competence,
 which grants dignity to one's work.
@@ -105,7 +105,7 @@ which grants dignity to one's work.
 ### To Put In Time & Effort
 
 On a similar note, Michael Paulson (better known as ThePrimeagen, former Netflix engineer)
-speaking on 'Developer Excellence', states that with such a mindset then, you can
+speaking on 'Developer Excellence', states that with such a mindset you can then
 take a chance on yourself.
 > When something is super difficult - say Groovy, a language you never worked on, and a
 tech-stack you never worked on, being the youngest person out of everybody on your team -
@@ -128,7 +128,7 @@ they are humble.
 
 And I confess that this is what I truly lack. For I have this tendency 
 to __incurvatus in se (to turn/curve in on myself).__ I often look to my own 'success'
-instead of that of others, and *I ironically admit that as I write this piece about myself,*
+instead of that of others, and *as I write this piece about myself, ironically*
 I feel this tendency bubbling up inside.
 
 I have had numerous experiences: highs and lows, pleasant and unpleasant - but all tainted
