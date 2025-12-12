@@ -6,7 +6,7 @@
 
 ## Step 1 (Vault): Generate Root CA
 
-0. On the default installation of FreeRADIUS, test certificates for EAP-TLS are provided.
+- On the default installation of FreeRADIUS, test certificates for EAP-TLS are provided.
 These can be found within the `/etc/freeradius/certs` directory.
 Within that directory is the `ca.cnf` file, which contains the configuration used to generate the self-signed CA for the test certificates.
 Using this as a reference, we can go about generating the CA in Vault.
@@ -319,7 +319,7 @@ curl -s -H "X-Vault-Token: $VAULT_TOKEN" \
 
 ## Step 3 (Vault): Create Server Role & Generate Server Certificates
 
-0. On a standard installation of FreeRADIUS, test certificates are provided to test an EAP-TLS setup.
+- On a standard installation of FreeRADIUS, test certificates are provided to test an EAP-TLS setup.
 Also provided is the configuration options used to create those test certificates.
 We can use the `server.cnf` file as a reference to create a role in Vault that issues server certificates.
 > GitHub: [/raddb/certs/server.cnf](https://github.com/FreeRADIUS/freeradius-server/blob/release_3_2_8/raddb/certs/server.cnf)
@@ -497,7 +497,7 @@ jq -r '.data.ca_chain[]' result-server-cert.json > ca.pem
 
 ## Step 4 (Vault): Create Client Role & Generate Client Certificates
 
-0. On a standard installation of FreeRADIUS, test certificates are provided to test an EAP-TLS setup.
+- On a standard installation of FreeRADIUS, test certificates are provided to test an EAP-TLS setup.
 Also provided is the configuration options used to create those test certificates.
 We can use the `client.cnf` file as a reference to create a role in Vault that issues client certificates.
 > GitHub: [/raddb/certs/client.cnf](https://github.com/FreeRADIUS/freeradius-server/blob/release_3_2_8/raddb/certs/client.cnf)
